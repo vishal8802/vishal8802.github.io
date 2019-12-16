@@ -52,6 +52,7 @@
   padding: 0;
   margin: 0;
 }
+
 #about p {
   color: gray;
   margin: 100px 0 20px 0;
@@ -135,4 +136,12 @@ a {
   float: right;
   margin-right: 20px;
   font-size: 24px;
+}
+
+.fas {
+  color: #00ccff;
+}
+
+#intro {
+  font-family: "Cabin", sans-serif;
 }
